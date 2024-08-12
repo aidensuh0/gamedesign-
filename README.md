@@ -1,1 +1,2 @@
-# gamedesign-
+# gamedesign!!
+# intro to games development
